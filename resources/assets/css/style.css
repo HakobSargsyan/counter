@@ -1,0 +1,12 @@
+.panel_box{
+	background-color : #DCDCDC;
+}
+
+body{
+	background-image: url("../img/bg.jpg");
+}
+
+.lbl_font_color{
+	color: white;
+	font-size: 18px;
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"all.css","sourcesContent":[".panel_box{\n\tbackground-color : #DCDCDC;\n}\n\nbody{\n\tbackground-image: url(\"../img/bg.jpg\");\n}\n\n.lbl_font_color{\n\tcolor: white;\n\tfont-size: 18px;\n}"]}
